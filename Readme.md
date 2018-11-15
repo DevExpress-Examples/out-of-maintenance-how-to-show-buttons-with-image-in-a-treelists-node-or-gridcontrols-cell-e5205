@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Customer.cs](./CS/GridSample/Customer.cs)
+* [Form1.cs](./CS/GridSample/Form1.cs)
+* [Program.cs](./CS/GridSample/Program.cs)
+<!-- default file list end -->
 # How to show buttons with image in a TreeList's node or GridControl's cell
 
 
